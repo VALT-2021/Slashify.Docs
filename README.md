@@ -8,7 +8,7 @@ Slashify does not automatically store data. When the /create and /modify command
 
 The command data is stored only for the bot to function and is not shared with anyone else or used for any other reason. The data is stored on Google Cloud.
 
-You can also contact the owner (Valt) [here](https://discord.gg/ENWJZXjhQ3)
+You can contact the owner (me) [here](https://discord.gg/ENWJZXjhQ3)
 
 Also see [Discord's Privacy Policy](https://discord.com/privacy).
 
